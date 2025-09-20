@@ -10,7 +10,7 @@ Hi, I’m **Sakthi LK**, a Computer Science Engineering student from Chennai, In
 I’m passionate about **software development, system design, competitive programming, and AI chatbots**.  
 
 I love building projects that solve real problems and exploring different domains like:  
-- Full-stack web development (React, Next.js, Node.js, Supabase, Python, Go, Ruby on Rails)  
+- Full-stack web development (React, Next.js, Node.js, Supabase, Python)  
 - Mobile app development (React Native, Flutter)  
 - Backend platforms, API design, and system architecture  
 - Open-source contributions and community-driven projects  
