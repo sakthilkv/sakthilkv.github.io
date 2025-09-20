@@ -15,23 +15,6 @@ I love building projects that solve real problems and exploring different domain
 - Backend platforms, API design, and system architecture  
 - Open-source contributions and community-driven projects  
 
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
-# About Me
-
-Hi, I’m **Sakthi LK**, a Computer Science Engineering student from Chennai, India.  
-I’m passionate about **software development, system design, competitive programming, and AI chatbots**.  
-
-I love building projects that solve real problems and exploring different domains like:  
-- Full-stack web development (React, Next.js, Node.js, Supabase, Python, Go, Ruby on Rails)  
-- Mobile app development (React Native, Flutter)  
-- Backend platforms, API design, and system architecture  
-- Open-source contributions and community-driven projects  
-
 Some of my notable GitHub repositories include:  
 - 📊 **react-horizontal-heatmap** – a lightweight React component for horizontal heatmaps, fully customizable, ⭐ 15 stars, 600 downloads/week  
 - 🚮 **plentastic-app** – a Flutter app that rewards users for responsibly disposing of plastic waste  
