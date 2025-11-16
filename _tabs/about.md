@@ -19,7 +19,7 @@ Some of my notable GitHub repositories include:
 - 📊 **react-horizontal-heatmap** – a lightweight React component for horizontal heatmaps, fully customizable, ⭐ 15 stars, 600 downloads/week  
 - 🚮 **Plentastic** – a Flutter app that rewards users for responsibly disposing of plastic waste  
 - 🐙 **Kumo** – a React-based media manager to organize movies, TV series, anime, manga, books, and games  
-- ♟️ **Eevee** – a chess engine built using Python ⭐ 1 star  
+- ♟️ **Eevee** – a chess engine built using Python
 - 🎵 **Butterscotch** – a React Native music player app with playlists, offline downloads, and mini-player support  
 
 Outside of coding, I enjoy chess, writing blogs, and sharing knowledge through online communities like **GitHub, Hashnode, Codeforces, and Instagram**.  
